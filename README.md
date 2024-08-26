@@ -5,13 +5,13 @@ Hello there! Welcome to my GitHub profile. I'm Sourabh Gour, a passionate techno
 ### About Me
 
 - **Name:** Sourabh Gour
-- **Age:** 20 years
+- **Age:** 21 years
 - **Location:** Bhopal, Madhya Pradesh
-- **Website:** [www.sourabh.me](https://www.sourabh.me)
+- **Website:** [www.sourabhgour.online](https://www.sourabhgour.online)
 
 ### Education and Experience
 
-I am currently pursuing a B.Tech in Computer Science Engineering at Sagar Institute of Science & Technology (SISTec-GN). As a Microsoft Learn Student Ambassador at SISTec and an IT and Digital Committee member of the Student Activity Council, I have had the opportunity to stay up-to-date with the latest industry trends and best practices.
+I am currently pursuing a B.Tech in Computer Science Engineering at Sagar Institute of Science & Technology (SISTec-GN). As a Microsoft Learn Student Ambassador CTM at SISTec and an IT and Digital Committee member of the Student Activity Council, I have had the opportunity to stay up-to-date with the latest trends and best practices.
 
 ### Design Expertise
 
