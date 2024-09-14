@@ -1,3 +1,7 @@
+![linkedincoverjpg](https://github.com/user-attachments/assets/290a83f5-5b7b-4896-9f29-da9dd3cb6a4c)
+
+
+
 # Sourabh Gour
 
 Hello there! Welcome to my GitHub profile. I'm Sourabh Gour, a passionate technology and design enthusiast, and I believe in leveraging technology to create purposeful and impactful experiences. 
