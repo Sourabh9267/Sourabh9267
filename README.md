@@ -1,4 +1,5 @@
-![linkedincoverjpg](https://github.com/user-attachments/assets/290a83f5-5b7b-4896-9f29-da9dd3cb6a4c)
+
+![linkedincoverjpg1](https://github.com/user-attachments/assets/9c0c80bf-61ad-4eab-8d52-5e099dbd4f7b)
 
 
 
