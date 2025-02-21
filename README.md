@@ -1,9 +1,4 @@
 
-![COVER](https://github.com/user-attachments/assets/c2e76e43-25a3-4a5f-a17d-611d8c4b6d43)
-
-
-
-
 # Sourabh Gour
 
 Hello there! Welcome to my GitHub profile. I'm Sourabh Gour, a passionate technology and design enthusiast, and I believe in leveraging technology to create purposeful and impactful experiences. 
